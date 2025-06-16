@@ -14,7 +14,7 @@ This is a responsive calculator app built with **React + TypeScript + Vite**. It
 
 ## 🚀 Live Demo
 
-[🔗 Live Site (Vercel/GitHub Pages)](https://pawarg84.github.io/fcc-calculator/) <!-- Replace this after deployment -->
+[🔗 Live Site (GitHub Pages)](https://pawarg84.github.io/fcc-calculator/) 
 
 ---
 
@@ -52,7 +52,7 @@ npm run dev
 The FreeCodeCamp test suite is automatically included via CDN.
 You can run the tests from the green menu in the top left corner of the app.
 
-📁 Project Structure
+## 📁 Project Structure
 
 fcc-calculator/
 ├── index.html
@@ -63,6 +63,7 @@ fcc-calculator/
 └── vite.config.ts
 
 ---
+
 📜 License
 MIT License © 2025 Ganesh Pawar
 
