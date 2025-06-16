@@ -8,7 +8,7 @@ This is a responsive calculator app built with **React + TypeScript + Vite**. It
 
 ## 📸 Screenshot
 
-![FCC Calculator Screenshot](./screenshot.png)
+![FCC Calculator Screenshot](./fcc-calculator.JPG)
 
 ---
 
@@ -53,9 +53,7 @@ The FreeCodeCamp test suite is automatically included via CDN.
 You can run the tests from the green menu in the top left corner of the app.
 
 📁 Project Structure
-css
-Copy
-Edit
+
 fcc-calculator/
 ├── index.html
 ├── src/
